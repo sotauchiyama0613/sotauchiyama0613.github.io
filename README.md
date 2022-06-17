@@ -1,5 +1,4 @@
 # sotauchiyama0613.github.io
-# {sotauchiyama0613}.github.io
 https://{sotauchiyama0613}.github.io/
 
 ## markdown-samples
